@@ -12,7 +12,7 @@ router.get("/", async (req, res) => {
 // The purpose of this route is to accept incoming request of name and description, then add a task to taskmodel, then respond through the status code
 router.post("/", async (req, res) => {
   const { name, description } = req.body;
-  const task = await taskModel.addTask(name, description);
+  const task = await taskModel.addTask(title, description);
   res.status(201).json(task);
 });
 
