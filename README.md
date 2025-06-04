@@ -1,1 +1,1 @@
-<p> This project shows how we used front end, back end, and databases to create a full stack applictaion. Sean worked on debuging and render, Jordan worked on comments and adding the style.css, Jayden helped with the debugging, Jairel worked on the readme file</p>
+<p> This project shows how we used front end, back end, and databases to create a full stack applictaion. Jordan worked on the comments and style customization, Sean worked on the debugging and Deployment, Jayden worked on Debugging as well, Jariel worked on the ReadMe File</p>
